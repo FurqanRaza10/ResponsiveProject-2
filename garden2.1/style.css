@@ -121,3 +121,17 @@ nav a{
      #categories section{
         margin-bottom: 20px;
      }
+
+     nav{
+        float: left;
+
+     }
+
+     nav a{
+        padding: 10px 40px;
+     }
+
+     nav a:hover{
+        text-shadow: 0px 0px 1px rgb(20, 70, 20);
+     }
+
