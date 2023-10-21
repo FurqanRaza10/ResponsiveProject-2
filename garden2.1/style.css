@@ -178,3 +178,18 @@ nav a{
       float: left;
       width: 50%;
     }
+
+    #categories img {
+      width: 160px;
+      height: 160px;
+      float: left;
+      object-fit: cover;
+    }
+    
+    #categories h3 {
+      margin-top: 0;
+    }
+    
+    #categories section {
+      overflow: auto;
+    }
