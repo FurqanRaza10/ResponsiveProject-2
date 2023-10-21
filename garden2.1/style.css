@@ -173,3 +173,8 @@ nav a{
     #multicol {
       overflow: auto;
     }
+
+    #categories section {
+      float: left;
+      width: 50%;
+    }
