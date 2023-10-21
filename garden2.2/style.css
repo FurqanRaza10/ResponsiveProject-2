@@ -254,5 +254,13 @@ nav a{
     width: 120px;
     height: 120px;
   }
+  
+  .item33 {
+    float: none;
+    display: block;
+    padding-left: 40%;
+  }
+
+
       
     
