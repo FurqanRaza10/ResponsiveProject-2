@@ -163,3 +163,13 @@ nav a{
       font-size: 3em;
       color: rgb(35, 102, 12);
     }
+
+    .item25 {
+      float: left;
+      width: 25%;
+      text-align: center;
+    }
+
+    #multicol {
+      overflow: auto;
+    }
