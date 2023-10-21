@@ -219,3 +219,6 @@ nav a{
     h1{
       font-size: 2.5em;
     }
+    nav a {
+      padding: 10px 30px;
+    }
