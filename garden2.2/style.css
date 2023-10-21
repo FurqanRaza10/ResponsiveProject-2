@@ -249,5 +249,10 @@ nav a{
     nav ul li {
       display: block;
     }
+   
+    #categories img {
+    width: 120px;
+    height: 120px;
+  }
       
     
