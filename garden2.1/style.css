@@ -193,3 +193,7 @@ nav a{
     #categories section {
       overflow: auto;
     }
+
+    #wrapper {
+      width: 90%;
+    }
