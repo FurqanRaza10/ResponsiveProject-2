@@ -157,3 +157,9 @@ nav a{
     #copyright {
       clear: both;
     }
+
+    .icon {
+      display: block;
+      font-size: 3em;
+      color: rgb(35, 102, 12);
+    }
