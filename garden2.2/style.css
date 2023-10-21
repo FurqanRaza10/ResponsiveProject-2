@@ -197,3 +197,7 @@ nav a{
     #wrapper {
       width: 90%;
     }
+
+    .mobile{
+      display: none;
+    }
