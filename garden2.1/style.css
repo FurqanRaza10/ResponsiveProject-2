@@ -148,3 +148,12 @@ nav a{
     h1 a:hover {
       text-shadow: 0px 0px 1px rgb(20, 70, 20);
     }
+
+    .item33 {
+      float: left;
+    }
+    
+   
+    #copyright {
+      clear: both;
+    }
